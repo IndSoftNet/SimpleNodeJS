@@ -11,4 +11,4 @@ http.createServer(function (request, response) {
     response.end();
 }).listen(3000);
 
-console.log('Server started');
+console.log('Server started localhost:3000');
